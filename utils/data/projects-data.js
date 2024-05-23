@@ -62,10 +62,18 @@ techniques with microservices architecture.`,
   {
     id: 3,
     name: "Pranaforce",
-    description: `In this platform anyone create webapp using drag and drop. User can create their own webapp(like e-
-commerce, live classes and other. including backend) kind of wordpress or shopify. In this platform provide templete.
-you can choose any templete and modify then publish with a custom subdomain`,
-    tools: ["React", "MUI", "Express", "MySql", "GrapeJS", "JWT", "Rapyd"],
+    description: `A platform where anyone can create their own webapp using drag and drop features. A variety of webapps like e-commerce, live classes and
+other  kind of wordpress or shopify. In this platform provide templete. you can choose any templete and modify then publish with a custom subdomain`,
+    tools: [
+      "React",
+      "MUI",
+      "Express",
+      "MySql",
+      "Sequelize",
+      "GrapeJS",
+      "JWT",
+      "Rapyd",
+    ],
     code: "",
     role: "Full Stack Developer",
     web: "http://pranaforceshop.com/",
