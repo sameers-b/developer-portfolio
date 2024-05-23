@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2019 - 2022",
+    institution: "Mahatma Gandhi Kashi Vidyapith",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Higher Secondary",
+    duration: "2016 - 2018",
+    institution: "Gopal Vidyalya inter college",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+    title: "Secondary School",
+    duration: "2014 - 2016",
+    institution: "Gopal Vidyalya inter college",
+  },
+];
